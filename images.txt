@@ -1,4 +1,4 @@
-#私库
+#私库仓库
 rabbitmq:3.12.0-management
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
