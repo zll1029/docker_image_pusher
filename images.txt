@@ -2,3 +2,5 @@
 rabbitmq:3.12.0-management
 mysql:5.7
 adoptopenjdk/openjdk8-openj9:alpine-slim
+ibm-semeru-runtimes:open-17.0.11_9-jdk-centos7
+bellsoft/liberica-runtime-container:jre-17-cds-slim-glibc
