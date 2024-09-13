@@ -8,3 +8,4 @@ ibm-semeru-runtimes:open-17.0.11_9-jdk
 redis:7.2.5
 emqx:5.7.1
 adoptopenjdk/openjdk8-openj9:alpine-slim
+openjdk:8u212-jdk-stretch
