@@ -10,3 +10,4 @@ emqx:5.7.1
 adoptopenjdk/openjdk8-openj9:alpine-slim
 openjdk:8u212-jdk-stretch
 openjdk:8-jdk
+onlyoffice/documentserver-de
