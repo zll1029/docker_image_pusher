@@ -12,3 +12,4 @@ openjdk:8u212-jdk-stretch
 openjdk:8-jdk
 onlyoffice/documentserver-de
 jrottenberg/ffmpeg
+ubuntu:22.04
