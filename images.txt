@@ -13,4 +13,3 @@ openjdk:8-jdk
 onlyoffice/documentserver-de
 jrottenberg/ffmpeg
 ubuntu:22.04
-emqx/emqx-enterprise:5.10.0
