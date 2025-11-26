@@ -13,5 +13,4 @@ openjdk:8-jdk
 onlyoffice/documentserver-de
 jrottenberg/ffmpeg
 ubuntu:22.04
-tomcat:9.0
-mysql:8.0
+mysql:8.0.44
