@@ -14,3 +14,4 @@ onlyoffice/documentserver-de
 jrottenberg/ffmpeg
 ubuntu:22.04
 tomcat:9.0
+mysql:5.8
