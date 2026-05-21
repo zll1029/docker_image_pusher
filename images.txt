@@ -8,7 +8,6 @@ ibm-semeru-runtimes:open-17.0.11_9-jdk
 redis:7.2.5
 emqx:5.7.1
 openjdk:8u212-jdk-stretch
-openjdk:8-jdk
 onlyoffice/documentserver-de
 jrottenberg/ffmpeg
 ubuntu:22.04
