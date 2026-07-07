@@ -1,3 +1,4 @@
+comfyui-boot:cu128-slim
 python:3.12
 rabbitmq:3.12.0-management
 mysql:5.7
