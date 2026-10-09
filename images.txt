@@ -1,9 +1,9 @@
 pingcap/pd:v6.5.12
 pingcap/tikv:v6.5.12
 pingcap/tidb:v6.5.12
-pingcap/pd:v8.5.12
-pingcap/tikv:v8.5.12
-pingcap/tidb:v8.5.12
+pingcap/pd:v8.5.8
+pingcap/tikv:v8.5.8
+pingcap/tidb:v8.5.8
 prom/prometheus:v3.13.1
 grafana/grafana:11.6.16
 nginx:1.30.3
