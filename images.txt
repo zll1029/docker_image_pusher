@@ -1,3 +1,4 @@
+ibm-semeru-runtimes:open-17.0.21.0-jdk
 python:3.11-slim
 golang:1.24.2-bookworm
 alpine:3.20
